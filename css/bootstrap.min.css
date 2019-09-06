@@ -1230,7 +1230,7 @@ h2,
 h3,
 .h3 {
   margin-top: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 h1 small,
 .h1 small,
@@ -1584,19 +1584,19 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-@media (min-width: 1750px) {
+@media (min-width: 1700px) {
   .container {
-    width: 1750px;
+    width: 1700px;
   }
 }
-@media (min-width: 1750px) {
+@media (min-width: 1700px) {
   .container {
-    width: 1750px;
+    width: 1700px;
   }
 }
-@media (min-width: 1750px) {
+@media (min-width: 1700px) {
   .container {
-    width: 1750px;
+    width: 1700px;
   }
 }
 .container-fluid {
@@ -1615,14 +1615,6 @@ pre code {
   padding-right: 15px;
   padding-left: 15px;
 }
-
-
-.w3-edu-grid-left {
-  padding-right: 0px !important;
-  }
-.w3-edu-grid-right {
-  padding-left: 0px !important;
-  }
 
 .col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
   float: left;
