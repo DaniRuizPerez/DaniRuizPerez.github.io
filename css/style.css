@@ -116,6 +116,10 @@ p {
 	margin: 0;
 	font-size:1em;
 	font-family: 'Ubuntu', sans-serif;
+  text-align:justify;
+}
+.test{
+  text-align:center;
 }
 ul {
 	margin: 0;
@@ -681,7 +685,6 @@ li.agile-it-adress-left b {
     margin: 2em 0;
 }
 .w3-about-grid-right1 {
-    margin: 2em 0;
     padding-right: 5% !important;
 }
 .w3-about-grid-left2 {
@@ -745,7 +748,7 @@ h3.w3-head-project {
    color: #fff;
     font-size: 2em;
     text-transform: capitalize;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
     letter-spacing: 2px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     width: 100%;
@@ -782,6 +785,7 @@ h3.w3-head-project {
     padding: 0.3em;
   text-transform: capitalize;
 }
+
 
 .w3-edu-info-right2 h3 {
    color: #fff;
