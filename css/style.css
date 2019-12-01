@@ -192,7 +192,7 @@ ul.address li ul.agileits-address-text li:nth-child(1) {
     width: 90%;
 }
 ul.agileits-address-text li a {
-    color:rgba(255, 255, 255, 0.76);
+    color: #fff;
 }
 .w3-banner-img h3 {
     color: #fff;
@@ -216,7 +216,7 @@ ul.agileits-address-text li a {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .w3-banner-grid-right p {
-    color:#e2e0e0;
+    color:#fff;
     font-size: 1em;
     line-height: 1.8em;
     letter-spacing: 1px;
