@@ -763,11 +763,27 @@ h3.w3-head-project {
     padding: 0.3em;
 	text-transform: capitalize;
 }
+
+.w3-edu-info-right1 h4 {
+    text-transform: capitalize;
+    color: #dcad3f;
+  letter-spacing: 2px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    margin-block-start: 1.35em;
+    margin-block-end: 1.7em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
 .w3-edu-info1 h4 {
     text-transform: capitalize;
     color: #dcad3f;
 	letter-spacing: 2px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
+        margin-block-start: 1.35em;
+    margin-block-end: 1.7em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 .w3-edu-grid-header h3 {
        color: #00bcd4;
