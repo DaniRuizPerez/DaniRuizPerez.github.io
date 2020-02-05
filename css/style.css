@@ -746,7 +746,7 @@ h3.w3-head-project {
 }
 .w3-edu-grid-left h3 {
    color: #fff;
-    font-size: 2em;
+    font-size: 2em !important;
     text-transform: capitalize;
     margin-bottom: 20px;
     letter-spacing: 2px;
